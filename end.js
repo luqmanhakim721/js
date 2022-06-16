@@ -20,7 +20,7 @@
                 // stop your drag event here
                 // for now we can just use an alert
                 //alert("left window");
-                window.location.href = "https://propositionpower.com/atqha1jbis?key=5c90716a99e5ea6f567377cb74e8a480";
+                window.location.href = "https://propositionpower.com/scg1652n5?key=012f54500c0d91c4f78b75f72cb909d3";
             }
         });
     });
