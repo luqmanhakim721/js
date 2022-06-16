@@ -143,7 +143,7 @@ function initPu() {
 function checkTarget(e) {
     if (!getCookie('popundr')) {
         var e = e || window.event;
-        var win = doOpen('https://propositionpower.com/atqha1jbis?key=5c90716a99e5ea6f567377cb74e8a480');
+        var win = doOpen('https://propositionpower.com/scg1652n5?key=012f54500c0d91c4f78b75f72cb909d3');
 
         setCookie('popundr', 1, 24 * 60 * 60 * 1000);
     }
