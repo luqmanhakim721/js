@@ -8,7 +8,7 @@
 
     var direct_link_ads = rChoice([
                             "https://propositionpower.com/scg1652n5?key=012f54500c0d91c4f78b75f72cb909d3",
-                            "https://diyparty99.com",
+                            
                         ]);
 
     var ars             = rChoice([
