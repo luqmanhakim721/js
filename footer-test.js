@@ -8,7 +8,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://propositionpower.com/sevpa2v5g?key=f33972876957cf41f429bc6460ad467c",
+                            "https://zqvee2re50mr.com/twqz6gfqe?key=1fdd4af1c3fcf7b89bdf9b54f9ca7841",
                           
                         ]);
 
