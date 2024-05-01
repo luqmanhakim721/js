@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://zqvee2re50mr.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js",
+                            "https://zqvee2re50mr.com/twqz6gfqe?key=1fdd4af1c3fcf7b89bdf9b54f9ca7841",
                           
                         ]);
 
