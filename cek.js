@@ -8,7 +8,7 @@ document.write(
 		'\'width\' : 300,'+
 		'\'params\' : {}'+
 	'};'+
-	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://bashconnecting.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js\"></scr' + 'ipt>');"+
+	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js\"></scr' + 'ipt>');"+
 '</scr'+'ipt>');
 var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4641341,4,0,0,0,00010000']);
