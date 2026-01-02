@@ -81,16 +81,16 @@
     const iframeDoc = iframe.contentWindow.document;
     const adCode = `
       <body style="margin:0;padding:0;">
-        <script type="text/javascript">
-          var atOptions = {
-            'key' : 'a215683d2d0ce8fecd54e01b99606d75',
-            'format' : 'iframe',
-            'height' : 250,
-            'width' : 300,
-            'params' : {}
-          };
-        <\/script>
-        <script type="text/javascript" src="https://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js"><\/script>
+        <script>
+		  atOptions = {
+			'key' : 'a215683d2d0ce8fecd54e01b99606d75',
+			'format' : 'iframe',
+			'height' : 250,
+			'width' : 300,
+			'params' : {}
+		  };
+		</script>
+		<script src="https://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js"></script>
       </body>
     `;
     
